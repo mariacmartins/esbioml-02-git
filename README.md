@@ -1,4 +1,6 @@
-## ESBIOML – Aula 2: Versionamento de Código com Git
+## Engenharia de Software para Bioinformática e Aprendizagem de Máquina
+
+### ESBIOML – Aula 2: Versionamento de Código com Git
 
 Na aula de Versionamento de Código foi ensinado conceitos de Versionamento de Código utilizando Git.
 
@@ -11,4 +13,4 @@ Foram ensinado comandos como:
 - git push -u origin main (para envios para o repositório criado)
 ```
 
-Também foram abordados conceitos e comandos relacionados à criação de *branchs* e merge na *branch main* (principal).
+Também foram abordados conceitos e comandos relacionados à criação de *branchs*, pull requests e *merge* na *branch* main (principal).
